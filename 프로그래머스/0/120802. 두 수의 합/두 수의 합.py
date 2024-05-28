@@ -1,3 +1,2 @@
 def solution(num1, num2):
-    answer = num1 + num2
-    return answer
+    return sum([num1, num2])
