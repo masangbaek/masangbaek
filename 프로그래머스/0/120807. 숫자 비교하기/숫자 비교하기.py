@@ -1,6 +1,5 @@
 def solution(num1, num2):
     if num1 == num2:
         return 1
-    else: 
+    else:
         return -1
-    
